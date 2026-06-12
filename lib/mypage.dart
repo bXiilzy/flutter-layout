@@ -91,7 +91,7 @@ class MyPage extends StatelessWidget {
     return Scaffold(
       appBar: AppBar(
         title: const Text(
-          'Strawberry Pavlova',
+          'JIRANAN KOEDKLA',
           style: TextStyle(fontFamily: 'Georgia', fontWeight: FontWeight.bold),
         ),
         backgroundColor: const Color.fromARGB(255, 255, 171, 241),
