@@ -92,7 +92,11 @@ class MyPage extends StatelessWidget {
       appBar: AppBar(
         title: const Text(
           'JIRANAN KOEDKLA',
-          style: TextStyle(fontFamily: 'Georgia', fontWeight: FontWeight.bold),
+          style: TextStyle(
+            fontFamily: 'Georgia',
+            fontWeight: FontWeight.bold,
+            fontSize: 18,
+          ),
         ),
         backgroundColor: const Color.fromARGB(255, 255, 171, 241),
         foregroundColor: Colors.black,
